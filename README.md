@@ -6,9 +6,9 @@
 ### II способ через init=/bin/bash
 ![alt text](chpwd2_1.png)
 ![alt text](chpwd2_2.png)
-# 2. Установить систему с LVM, после чего переименовать VG.
+# 2. Установить систему с LVM, после чего переименовать VG. (task2.sh)
 ![alt text](output.png)
 
-# 3. Добавить модуль в initrd.
+# 3. Добавить модуль в initrd. (task3.sh)
 Пингвин вышел немного криво)
 ![alt text](module.png)
